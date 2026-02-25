@@ -48,6 +48,11 @@ Hi! My name is [Aashi Hegu]
             Blackjack
         </div>
     </a>
+    <a href="{{site.baseurl}}/Homework" style="text-decoration: none;">
+        <div style="background-color: #990a7f; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Blackjack
+        </div>
+    </a>
 </div>
 
 <br>
