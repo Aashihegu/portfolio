@@ -11,9 +11,8 @@ This page collects links to the JavaScript lesson homeworks so you can quickly o
 
 * [Data Abstractions]({{ site.baseurl }}/js/dataabstraction)
 * [Strings]({{ site.baseurl }}/js/strings)
-* [JSON]({{ site.baseurl }}/js/json)
+* [JSON]({{ site.baseurl }}/javascript/json/lesson)
 * [Arrays]({{ site.baseurl }}/js/arrays)
-* [Booleans]({{ site.baseurl }}/js/booleans)
 * [Iteration]({{ site.baseurl }}/js/iterations)
 * [Math Expressions]({{ site.baseurl }}/js/math)
 * [Nested Conditionals]({{ site.baseurl }}/js/nested-conditionals)
